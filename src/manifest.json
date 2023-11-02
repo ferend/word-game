@@ -1,0 +1,50 @@
+{
+  "bundles": [
+    {
+      "name": "game",
+      "assets": [
+        {
+          "name": "bg",
+          "srcs": "assets/background.png"
+        },
+        {
+          "name": "gp",
+          "srcs": "assets/gray-pane.png"
+        },
+        {
+          "name": "op",
+          "srcs": "assets/orange-pane.png"
+        },
+        {
+          "name": "grp",
+          "srcs": "assets/green-pane.png"
+        },
+        {
+          "name": "circle",
+          "srcs": "assets/bubble-white.png"
+        },
+        {
+          "name": "circleClicked",
+          "srcs": "assets/circle.png"
+        },
+        {
+          "name": "cross",
+          "srcs": "assets/cross.png"
+        },
+        {
+          "name": "tick",
+          "srcs": "assets/tick.png"
+        }
+      ]
+    },
+    {
+      "name": "fonts",
+      "assets": [
+        {
+          "name": "font",
+          "srcs": "assets/Sniglet-Regular.ttf"
+        }
+      ]
+    }
+  ]
+}
